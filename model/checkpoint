@@ -1,0 +1,2 @@
+model_checkpoint_path: "POST_TEST_MODEL-1000"
+all_model_checkpoint_paths: "POST_TEST_MODEL-1000"

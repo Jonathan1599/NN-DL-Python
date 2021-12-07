@@ -14,3 +14,7 @@
 `export FLASK_APP = app`
 - Windows <br>
 `setx FLASK_APP "app.py"`
+
+ pip install "tensorflow>=1.15,<2.0"
+pip install flask-restful
+pip install flask-cors
